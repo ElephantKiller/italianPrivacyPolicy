@@ -13,8 +13,8 @@ I dati personali inviati attraverso i moduli di contatto e/o gli altri servizi p
 ### 1.1) Obbligatorietà del consenso
 
 L'invio e il consenso al trattamento dei dati è facoltativo.
-L'utente è libero di negare in tutto o in parte (qualora concesso) il consenso all'invio e/o al trattamento dei propri dati personali, rinuciando al contempo anche alla possibilità di usufruire dei servizi forniti dal sito **[[NOME SITO]]** per i quali si richiede l'invio e il consenso al trattamento dei dati personali.
-Il consenso è quindi obbligatorio per l'ergazione dei servizi offerti e per i quali viene richiesto.
+L'utente è libero di negare in tutto o in parte (qualora concesso) il consenso all'invio e/o al trattamento dei propri dati personali, rinunciando al contempo anche alla possibilità di usufruire dei servizi forniti dal sito **[[NOME SITO]]** per i quali si richiede l'invio e il consenso al trattamento dei dati personali.
+Il consenso è quindi obbligatorio per l'erogazione dei servizi offerti e per i quali viene richiesto.
 
 ### 1.2) Rifiuto del consenso
 
